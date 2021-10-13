@@ -9,7 +9,12 @@ public class TestClass {
 	{
 		System.out.println("in test method");
 	}
-
+	
+	@Test
+	public void testmethod1()
+	{
+		System.out.println("in test method1");
+	}
 	
 	@Test
 	public void testmethod2()
@@ -21,6 +26,12 @@ public class TestClass {
 	public void testmethodBranching()
 	{
 		System.out.println("in test method branching");
+	}
+	
+	@Test
+	public void testmethodBranching123()
+	{
+		System.out.println("in test method branching23");
 	}
 	
 }
