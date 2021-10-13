@@ -15,4 +15,10 @@ public class TestClass {
 	{
 		System.out.println("in test method1");
 	}
+	
+	@Test
+	public void testmethod2()
+	{
+		System.out.println("in test method2");
+	}
 }
