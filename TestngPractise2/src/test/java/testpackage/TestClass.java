@@ -9,12 +9,7 @@ public class TestClass {
 	{
 		System.out.println("in test method");
 	}
-	
-	@Test
-	public void testmethod1()
-	{
-		System.out.println("in test method1");
-	}
+
 	
 	@Test
 	public void testmethod2()
