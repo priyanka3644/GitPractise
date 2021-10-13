@@ -21,4 +21,10 @@ public class TestClass {
 	{
 		System.out.println("in test method2");
 	}
+	
+	@Test
+	public void testmethodBranching()
+	{
+		System.out.println("in test method branching");
+	}
 }
